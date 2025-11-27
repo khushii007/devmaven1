@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "Deploy project to jenkins" %></h2>
+<h2><%= "Docker container" %></h2>
 </body>
 </html>
